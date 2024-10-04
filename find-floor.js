@@ -1,3 +1,4 @@
+// function below
 function findFloor(arr, num, low = 0, high = arr.length - 1) {
     if (low > high) return -1;
     if (num >= arr[high]) return arr[high];
