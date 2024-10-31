@@ -1,4 +1,5 @@
 
+
 function countZeroes(arr) {
     // add whatever parameters you deem necessary - good luck!
     let firstZero = findFirst(arr)
